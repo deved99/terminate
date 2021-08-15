@@ -1,5 +1,5 @@
 [package]
-name = "rust-term"
+name = "terminate"
 version = "0.1.0"
 authors = ["Davide Forlani <forla.df@gmail.com>"]
 edition = "2018"
